@@ -1,5 +1,4 @@
-# Установка GoodbyeDPI https://github.com/ValdikSS/GoodbyeDPI
-
+# Установка GoodbyeDPI
 ## Запустить консоль (терминал)
 
 `Win + R` -> `cmd`
@@ -27,3 +26,5 @@ Write-Host "Done"; `
 Clear-Host
 
 ```
+
+https://github.com/ValdikSS/GoodbyeDPI
