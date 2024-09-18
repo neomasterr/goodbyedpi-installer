@@ -1,4 +1,4 @@
-# Установка GoodbyeDPI
+# Установка GoodbyeDPI https://github.com/ValdikSS/GoodbyeDPI
 
 ## Запустить консоль (терминал)
 
