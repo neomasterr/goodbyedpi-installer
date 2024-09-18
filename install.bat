@@ -38,7 +38,7 @@ pushd %localappdata%
 del %archive%
 curl -L https://github.com/ValdikSS/GoodbyeDPI/releases/download/%version%/goodbyedpi-%tag%.zip -o %archive%
 powershell Expand-Archive %archive% -DestinationPath %name%
-cd %name%
+cd %name%\%name%
 start service_install_russia_blacklist_YOUTUBE.cmd
 popd
 
