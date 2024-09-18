@@ -41,3 +41,5 @@ powershell Expand-Archive %archive% -DestinationPath %name%
 cd %name%
 start service_install_russia_blacklist_YOUTUBE.cmd
 popd
+
+exit /B
