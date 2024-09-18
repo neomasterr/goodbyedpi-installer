@@ -10,7 +10,7 @@
 ### Если CMD
 
 ```
-del /F /Q install.bat && curl -L https://raw.githubusercontent.com/neomasterr/goodbyedpi-installer/refs/heads/master/install.bat -o install.bat && start /wait install.bat && del /F /S /Q goodbyedpi-installer && echo Done && cls
+del /F /Q install.bat && curl -L https://raw.githubusercontent.com/neomasterr/goodbyedpi-installer/refs/heads/master/install.bat -o install.bat && start /wait install.bat && del /F /Q install.bat && echo Done && cls
 
 ```
 
